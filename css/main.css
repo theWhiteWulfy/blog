@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  /*color: #0085a1;*/
 }
 
 @media only screen and (min-width: 768px) {
@@ -641,3 +641,7 @@ td.gutter {
 
   #reg::selection      {background: #f74770; color: #000000; }
   #reg::-moz-selection    {background: #f74770; color: #000000; }
+
+  .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+  }

@@ -4,20 +4,23 @@ title: Plot Summary
 subtitle: Color Purple by Alice Walker
 ---
 
-##First Period
+## First Period
+
 In The Color Purple, the story is told through letters. The only sentences outside the letters are the first two: “You better not never tell nobody but God. It'd kill your mammy.” Silenced forever, the main character, fourteen year old Celie, writes letters to God. Her father has raped her, and she has two children, a girl and a boy, whom “Pa” took away from her. Celie's mother has died and Pa is looking too much at her little sister, Nettie.
 Mr. wants to marry Nettie but Pa rejects him because of the Mr.'s scandals with Shug Avery, a blues singer. Celie manages to get a picture of Shug and falls in love with her. Eventually, Mr. agrees to take Celie instead of Nettie because Pa offers him a cow.
 Once she is in his care, Mr. beats Celie all the time. Meanwhile, Nettie runs away from Pa and comes to Mr.'s house, but when she rejects him, he throws her out. Celie advises Nettie to ask her daughter Olivia's new “mother” for help. Nettie promises to write but her letters never arrive.
 One day, Shug Avery comes to town, but Mr. does not take Celie to see her. Harpo, Mr.'s son, gets married to Sofia, a strong brave woman, and when he complains that Sofia does not obey him, Celie advises Harpo to beat her. Sofia finds out, and in the conversation that follows, Celie realizes she is jealous of Sofia: “You do what I can't. Fight,” she says.
 
-##Second Period
+## Second Period
+
 Shug is ill and Mr. brings her to his home. To Celie's surprise, she calls Mr. by his first name, Albert. Celie's love and care make Shug better; Shug starts composing a new song.
 Sofia finally leaves Harpo, who turns his house into a jukejoint and asks Shug to sing. Shug invites Celie to the performance. Shug sings “A Good Man Is Hard to Find” and then her new piece, called “Celie's Song.” Celie discovers that she is important to someone.
 Before leaving, Shug says she will make sure Mr. never beats Celie again. She also teaches Celie to love herself. By the time Sofia returns with a new man and six children instead of five, Harpo has a little girlfriend he calls Squeak. Sofia and Squeak hit each other in the jukejoint, and finally Sofia leaves.
 The mayor's wife sees Sofia in town with the kids and asks Sofia to be her maid. Sofia answers “Hell no,” and hits the mayor when he protests. She is arrested, beaten and left in prison. Meanwhile, Squeak takes care of Sofia's children. When she finds out one of Sofia's wardens is her uncle, Squeak tries to save Sofia. She convinces the warden that working for the mayor's wife would be a better punishment for Sofia. The warden forces Squeak to have sexual intercourse with him. When Squeak goes back home, furious and humiliated, she orders Harpo to call her Mary Agnes, her real name. Sofia starts working for the mayor's wife, but she is treated as a slave.
 On her next visit, Shug is married. She and Celie have missed each other, and one night, when the men are away, Celie tells Shug the story of Pa and the children. Shug kisses her, and they make love.
 
-##Third Period
+## Third Period
+
 One day, Shug asks Celie about Nettie, and together they realize Mr. has been hiding Nettie's letters. They finally recover them from Mr.'s trunk.
 Unlike Celie's letters to God, Nettie's letters are written in standard English. The day Nettie left, Mr. followed her and tried to rape her. She fought, and he had to give up, but he promised she would never hear from Celie again. Nettie went to see Corrine, Olivia's new mother, and her husband, the Reverend Samuel. She also met Celie's other child, Adam. Samuel was a member of a missionary society, and Nettie decided to go to Africa with the family. First, they went to New York, where Nettie discovered Harlem and African culture. Then, they went to England and Senegal, where Nettie saw what Europe was doing to Africa: robbing its treasures, using its peoples, and impoverishing the land.
 Celie reads Nettie's letters and wants to kill Mr. for having hidden them. To help Celie control herself, Shug suggests that Celie make herself a pair of pants and go on reading the letters.
@@ -26,7 +29,8 @@ Olinka girls were not educated. Olivia was the only girl at school. Corrine, jea
 After five years of silence, the next letter tells Celie that Adam and Olivia had discovered connections between slave stories and African stories. Tashi's father had died, and her mother had let her go to school. A road was now near the village, and suddenly the Olinkas realized it was going to destroy their sacred place. The chief went to the coast to do something about it, but he discovered that the Olinkas' whole territory now belonged to a rubber company.
 When Corrine got ill shortly afterwards, she told Nettie she thought Adam and Olivia were Nettie's and Samuel's kids. Though Nettie swore it was not so, Corrine was not convinced. Nettie and Samuel talked about it, and Samuel told her that Celie's and Nettie's real father was not the man they called “Pa”; their mother had been married before to a man who was lynched by white people. In this way, Celie is freed from the nightmare of believing her children are also her brother and sister.
 
-##Fourth Period
+## Fourth Period
+
 For the first time, Celie writes a letter to Nettie. She has visited her old house with Shug and seen her Pa. Meanwhile, she goes on reading Nettie's letters.
 Nettie and Samuel tried to convince Corrine of the real story of the children. She believed them only when Nettie made her remember meeting Celie in town. Corrine smiled to them then but died soon afterwards.
 “I don't write to God no more, I write to you (Nettie)”, says Celie in her next letter. She sees she has been praying to a white old man. Shug tells Celie she believes God is not a He or a She, but an It. It is everything, and It gets very angry if one walks by the color purple in a field and doesn't notice it.
@@ -41,28 +45,28 @@ Sofia starts working in Celie's store. She is with Harpo again. Mr., who is now 
 
 
 
-#THEMES
+# THEMES
 
-##Sexism
+## Sexism
 Sexual relations between men and women in The Color Purple is a major theme. Alice Walker sets her story of Celie's transformation from a passive female to an independent woman within the culture of southern black rural society from the 1920s to the 1940s. In the beginning of the story, Celie is dominated first by her father, whom she later learns is really her stepfather, then by her husband, Albert (Mr.). The catalyst for the character change in Celie is the relationship she develops with Shug Avery, her husband Albert's mistress. Because Celie has been warned by her stepfather, Alphonso, not to tell anyone but God about how he repeatedly rapes her, she begins to write letters to God. It is through the letters that the reader develops a sense of Celie's being, which at first is self-effacing, but eventually becomes strong and independent.
 In the novel there are a number of role reversals that take place between men and women. Harpo, Albert's son, tries to emulate his father and attempts to dominate his strong-willed wife, Sofia. By the end of the story, Harpo and Sofia have reversed traditional male-female roles. Harpo stays home to take care of the house, while Sofia works. Celie and Albert also reverse roles. By the end of the story, Celie is an independent businesswoman, and Albert is her assistant. Celie has also learned to speak up for herself, claiming her house when her stepfather dies. The sexual relationship between Celie and Shug further breaks with the traditional roles of passive women and dominant men that the story challenges. In the relationship between Samuel and Corrine, the missionaries who adopt Celie's children, and later between Nettie and Samuel, Walker presents what could be called a partnership relationship between a man and woman. In these relationships, both the man and the woman share the same goals and work together to realize them. Walker uses the incident between Squeak and her white uncle, the warden at Sofia's prison, to illustrate how sexism and racism were expressed. The warden has no qualms about raping his own niece, which reflects a southern, white, male disregard for the dignity of black women. During the period of the novel, it was a commonly held view among white males that they could do whatever they pleased with black women, a view that many black males shared as well.
 
-##Transformation
+## Transformation
 Celie's transformation from a young passive girl, who is the object of violence and cruelty from her stepfather and her husband, into an independent woman with self-esteem is at the heart of The Color Purple. While the ways in which conflicts are resolved may stretch the imagination at times, they are central to the author's view that goodness can triumph over evil. That Celie is able to forgive Albert by the end of the story and take him in as a helper reflects Walker's insistence on the redeeming quality of the human heart. She shows in transformed relationships that the worst cruelty committed by one person on another does not prohibit a change of heart. Her view is basically that the conditions under which human beings struggle shape their behavior. Albert had a difficult life and took out his frustrations on Celie. When Celie became self-sufficient, she could easily have turned her back on Albert, but it is not within the framework of her character to be uncharitable. In becoming independent, Celie has found happiness. Rejecting Albert would detract from her happiness. Celie's behavior toward Albert reflects Walker's insistence on forgiveness and contributes to the overall religious overtones of the book.
 
-##Culture
+## Culture
 Cultural difference plays a significant role in The Color Purple. Walker effectively uses black folk English in Celie's letters to express the voice of poor, black rural African Americans. Walker presents a clear picture in the book of the economic and social hardships that African Americans faced in the rural south during the early 1900s. She also presents an honest picture of the effects of racial repression. The picture Walker paints of black life is not one-sided. While Celie and Albert are tied to the land and the harsh life it represents, Nettie escapes into a black middle-class life through her missionary friends. Religion in the South played an important role in liberating many African Americans from poverty. As a spin-off for involvement with the church, literacy and education flourished. Celie is embracing a religious literacy through her letters to God, and in her letters to Nettie she comes to grips with the larger world, including Africa, outside her small community. By making the connection to Africa, Walker emphasizes the importance of African Americans' roots.
 
 
 
-#CONSTRUCTION
+# CONSTRUCTION
 
-##Point of View
+## Point of View
 The Color Purple is written in the first person, and the voice is predominately Celie's, but some of the letters that comprise the book are written to Celie by her sister Nettie. The story covers thirty years of Celie's life from childhood to her maturity as an independent woman. By having Celie write in black folk English, Walker brings the reader close to the quality and rhythms of life that her characters experience. Celie's dialect also reflects her lack of formal education. Nettie, who was formally educated, writes her letters in standard English. They are full of information that becomes a source of knowledge for Celie outside the world of her own small community.
 
-##Structure
+## Structure
 The structure of The Color Purple is the series of letters Celie writes to God and to her sister Nettie. Some of the letters in the book are written by Nettie to Celie. This literary form is called the epistolary novel, a form developed in eighteenth-century England by novelists like Samuel Richardson. A major advantage of this structure is that the reader becomes intimate with the character of the letter writer. With the epistolary form, Walker was able to focus on the inner life of her main character and create a sense of intimacy that may be partly responsible for the success of the book. This technique creates a confidential reading experience. The reader has a chance to read over the character's shoulder and look inside her. Nettie, to a great extent, escaped the cruelty that Celie experienced because she was able to leave home early. The tone of her letters to Celie contrasts sharply with Celie's letters to God. In Nettie's letters, there is much less intimacy. They do not contain the suffering that Celie has expressed in her letters to God. By introducing Nettie's letters, Walker is able to shift her story from Celie's life of despair to a life that begins to have hope. It is through the help of Shug Avery that Celie finds her hope—the letters from Nettie that Albert had hidden from her.
 Basically there are four time frames of the novel. In the first period of her life, Celie experiences the misery of poverty and cruelty at the hands of her stepfather. In the second closely-related period, Celie experiences continued cruelty from her husband Albert. In the third period, she awakens to the possibility of self-realization through her relationship with Shug and her renewed contact with her sister Nettie. Finally, Celie has realized herself and has established a life where she has control; she has found the happiness and contentment that come from self-realization. Another period, not directly a part of Celie's life, is Nettie's time spent in Africa. The letters from Nettie serve as a contrast to Celie's life. They also enlarge Celie's perspective and help to universalize her life.
 
-##Symbolism
+## Symbolism
 The primary symbol of The Color Purple is found in the title, The Color Purple. The significance of the color purple is that it stands for human hope. It is a miraculous color when found in nature, and one which indicates that the feeling of hope, despite misery is a miracle of the human spirit.
