@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #f74770;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -111,7 +111,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #fff;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -626,3 +626,18 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/*Selection*/
+  ::selection       {background: #f74770; color: #fff; }
+  ::-moz-selection  {background: #f74770; color: #fff; }
+  img::selection       {background: #f74770;}
+  img::-moz-selection  {background: #f74770;}
+  body {-webkit-tap-highlight-color: #f74770;}
+
+
+
+  #journal::selection     {background: #f74770; color: #000000; }
+  #journal::-moz-selection   {background: #f74770; color: #000000; }
+
+  #reg::selection      {background: #f74770; color: #000000; }
+  #reg::-moz-selection    {background: #f74770; color: #000000; }
