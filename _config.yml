@@ -10,26 +10,26 @@
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-url: "http://oxyenyos.github.io/blog"
-baseurl: "/blog"
+url: "http://blog.alokprateek.ml"
+baseurl: ""
 
 # Name of website
-title: Alok's Scrawls
+title: The Uncollected Pages
 
 # Short description of your site
-description: A nice platform for my rants
+description: A good piece of writing is never complete, it's just abandoned.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "_posts"
-  Author's home: "http://oxyenyos.github.io"
+  Blog: "posts"
+  Home: "http://alokprateek.ml"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.jpg"
+avatar: "/img/avatar2.png"
 
 # --- Footer options --- #
 
@@ -170,6 +170,8 @@ prose:
 
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
