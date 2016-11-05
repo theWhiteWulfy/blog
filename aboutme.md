@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am? and What do I do?
 ---
 
-My name is Alok Prateek. I have the following qualities:
 
-- I don't rock a great horns
-- I'm extremely loyal to my dog
-
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch little nicky and it will answer **all** your questions.

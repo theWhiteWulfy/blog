@@ -24,7 +24,8 @@ description: A good piece of writing is never complete, it's just abandoned.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "posts"
+  CV: "cv"
+  Blog: "/_posts"
   Home: "http://alokprateek.ml"
 
 # Image to show in the navigation bar - image must be a square (width = height)
