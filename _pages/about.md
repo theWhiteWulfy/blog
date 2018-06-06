@@ -1,7 +1,7 @@
 ---
 title: About
+permalink: "/about/"
 layout: post
-permalink: /about/
 ---
 
 Hi!

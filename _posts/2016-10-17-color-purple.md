@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Plot Summary
+date: 2016-10-17 00:00:00 +05:30
+categories:
+- college
+- writeup
+layout: post
 subtitle: Color Purple by Alice Walker
-description: This is one of my best literary reviews and was quite popular at a website. Probably satisfied homework of an entire school.
+description: This is one of my best literary reviews and was quite popular at a website.
+  Probably satisfied homework of an entire school.
 color: 4A148C
-categories: college writeup
 ---
 
 ## First Period

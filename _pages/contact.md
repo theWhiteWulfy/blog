@@ -1,9 +1,8 @@
 ---
 title: Contact
+permalink: "/contact/"
 layout: post
-permalink: /contact/
 ---
-
 
 <style>
 .contact-li {
